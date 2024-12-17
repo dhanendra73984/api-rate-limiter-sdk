@@ -11,11 +11,8 @@ It is generated with [Stainless](https://www.stainlessapi.com/).
 ## Installation
 
 ```sh
-npm install git+ssh://git@github.com:dhanendra73984/api-rate-limiter-sdk.git
+npm install api-rate-limiter-sdk-dds
 ```
-
-> [!NOTE]
-> Once this package is [published to npm](https://app.stainlessapi.com/docs/guides/publish), this will become: `npm install api-rate-limiter-sdk-dds`
 
 ## Usage
 
